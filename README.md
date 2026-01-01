@@ -136,7 +136,7 @@ Alert System & Reporting
 
 ## 👥 Team Members
 
-- **Joash Voon Dirui Joash** – CNN Implementation  
+- **Joash Voon Dirui** – CNN Implementation  
 - **Tan Hoong Guan** – KAN Implementation  
 
 ---
